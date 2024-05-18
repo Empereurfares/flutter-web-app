@@ -1,0 +1,56 @@
+{
+    "Diversos": {
+      "Esportes": [
+        "Futebol",
+        "Vôlei",
+        "Tênis de Mesa",
+        "Natação",
+        "Futsal",
+        "Basquete",
+        "Atletismo",
+        "Ginástica",
+        "Surf",
+        "Artes Marciais Mistas"
+      ],
+      "Idiomas": [
+        "Deutsch",
+        "English",
+        "Español",
+        "Français",
+        "Italiano",
+        "Outros"
+      ],
+      "Música": [
+        "Pop",
+        "Rock",
+        "Sertanejo",
+        "Samba e Pagode",
+        "Lançamentos",
+        "top 50",
+        "Gospel",
+        "Instrumental"
+      ],
+      "Cultura": [
+        "Cinema",
+        "Filosofia",
+        "Gifs Animados",
+        "Jogos",
+        "Literatura",
+        "Mangá e animê",
+        "Papo-cabeça",
+        "RPG",
+        "Ufologia"
+      ],
+      "TV": [
+        "Novels",
+        "Seriados",
+        "Filmes"
+      ],
+      "Saúde": [
+        "Yoga",
+        "Academia",
+        "Ginástica"
+      ]
+    }
+  }
+  

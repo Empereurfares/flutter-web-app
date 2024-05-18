@@ -1,0 +1,20 @@
+{
+    "Idades": [
+      {
+        "roomName": "18 to 30"
+      },
+      {
+        "roomName": "30 to 40"
+      },
+      {
+        "roomName": "40 to 50"
+      },
+      {
+        "roomName": "50 to 60"
+      },
+      {
+        "roomName": "mais que 60"
+      }
+    ]
+  }
+  
